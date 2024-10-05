@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying: **C++, Java & Various Other Language For Mathematical Computing.**
 
-- 📝 I’m currently working on [a SoftUni Java Course](a SoftUni Java Course)
+- 📝 I’m currently working on: **a SoftUni Java Course.**
 
 - 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
 
