@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **sustoyanivanov2@gmail.com**
 
-- ⚡ Fun fact: **I am known as Stoyan4o 4ervenoto Яке & I play the bass guitar.**
+- ⚡ Fun fact: **They call me Stoyan4o 4ervenoto Яке & I play the bass guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
