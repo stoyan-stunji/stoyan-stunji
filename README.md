@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stoyan Ivanov</h1>
 <h3 align="center">Student At FMI - Sofia University</h3>
 
-- 🌱 I’m currently studying **C++, Java & Various Other Language For Mathematical Computing**
+- 🌱 I’m currently studying: **C++, Java & Various Other Language For Mathematical Computing.**
 
-- 👨‍💻 All of my projects are available at [github.com/stoyan-stunji](github.com/stoyan-stunji)
+- 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
 
-- 📫 How to reach me **sustoyanivanov2@gmail.com**
+- 📫 How to reach me: **sustoyanivanov2@gmail.com**
 
-- ⚡ Fun fact **I play the bass guitar**
+- ⚡ Fun fact: **I am known as Stoyan4o 4ervenoto Яке & I play the bass guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
