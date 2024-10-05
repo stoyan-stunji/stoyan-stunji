@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **C++, Java & Various Other Language For Mathematical Computing**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github.com/stoyan-stunji](github.com/stoyan-stunji)
 
 - ⚡ Fun fact **I play the bass guitar**
 
