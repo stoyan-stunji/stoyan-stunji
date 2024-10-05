@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/stoyan-stunji](github.com/stoyan-stunji)
 
+- 📫 How to reach me **sustoyanivanov2@gmail.com**
+
 - ⚡ Fun fact **I play the bass guitar**
 
 <h3 align="left">Connect with me:</h3>
