@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stoyan Ivanov</h1>
 <h3 align="center">Student At FMI - Sofia University</h3>
 
-- 🌱 I’m currently studying: **C++, Java & Various Other Language For Mathematical Computing.**
+- 🌱 I’m currently studying: **C++, Java & Various Other Languages For Mathematical Computing.**
 
 - 📝 I’m currently working on: **a SoftUni Java Course.**
 
