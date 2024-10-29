@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying: **C++, Java & Various Other Languages For Mathematical Computing.**
 
-- 📝 I’m currently working on: **5th Semester [SU FMI] & Java Course [SoftUni]**
+- 📝 I’m currently working on: **5th Semester [SU FMI] & Java Course [SoftUni].**
 
 ```yaml
 Functional Programming | Operating Systems | Probability & Statistics | Computer Networks | Design Patterns For Reusuable Software | Mathematical Modules | Programming Basics with Java
