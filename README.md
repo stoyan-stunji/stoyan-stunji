@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying: **C++, Java & Various Other Languages For Mathematical Computing.**
 
-- 📝 I’m currently working on: **My 5th Semester At Uni: (Functional Programming, Operating Systems, Probability & Statistics, Computer Networks, Design Patterns, Mathematical Modules) & a SoftUni Java Course.**
+- 📝 I’m currently working on: **My 5th Semester @FMI [Functional Programming, Operating Systems, Probability & Statistics, Computer Networks, Design Patterns For Reusuable Software, Mathematical Modules] & Programming Basics with Java @SoftUni**
 
 - 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
 
