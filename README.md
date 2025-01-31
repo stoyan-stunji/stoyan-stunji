@@ -6,7 +6,7 @@
 - 📝 I’m currently working on: **5th Semester [SU FMI] & AI Course [SoftUni]**
 
 ```yaml
-Functional Programming | Operating Systems | Probability & Statistics | Computer Networks | Design Patterns For Reusuable Software Design | Mathematical Modules || AI Basics
+Functional Programming | Operating Systems | Probability & Statistics | Design Patterns For Reusuable Software Design || AI Basics
 ```
 
 - 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
