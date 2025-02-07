@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stoyan "The Red Jacket" Ivanov</h1>
 <h3 align="center">Student At FMI - Sofia University</h3>
 
-- 🌱 I’m currently studying: **C++, Scheme/Racket, Haskell, Java & Various Other Languages For Mathematical Computing.**
+- 🌱 I’m currently studying: **C++, Java, Haskell & Various Other Languages For Mathematical Computing.**
 
 - 📝 I’m currently working on: **5th Semester [SU FMI] & AI Course [SoftUni]**
 
