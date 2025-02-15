@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently studying: **C++, Java, Haskell & Various Other Languages For Mathematical Computing.**
 
-- 📝 I’m currently working on: **5th Semester [SU FMI] & AI Course [SoftUni]**
+- 📝 I’m currently working on: **6th Semester [SU FMI] & AI Course [SoftUni]**
 
 ```yaml
-Operating Systems | Probability & Statistics | Design Patterns For Reusuable Software Design || AI Basics
+Network Programming | Databases | Artificial Intelligence | Geometry | Semantics For Languages | Complex Analysis | Clean Code || AI Basics
 ```
 
 - 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
