@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying: **C++, Java, Haskell & Various Other Languages For Mathematical Computing.**
 
-- 📝 I’m currently working on: **6th Semester [SU FMI Informatics], 1st Semester[SU FMI Teaching Module - Math] & AI Course [SoftUni]**
+- 📝 I’m currently working on: **6th Semester [SU FMI Informatics], 1st Semester [SU FMI Teaching Module - Math] & AI Course [SoftUni]**
 
 ```yaml
 Network Programming | Databases | Artificial Intelligence | Geometry | Semantics For Languages | Complex Analysis | Clean Code || AI Basics
