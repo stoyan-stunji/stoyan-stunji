@@ -13,8 +13,8 @@
 ### Projects:
 #### 6th Semester:
 - [Auto Theme Sum & Doc Group](https://github.com/stoyan-stunji/fmi-ai-topic-grouping) - [Java/Python] - Artificial Intelligence
-- [Yen's Algorithm](add) - [Java] - Network Programming
-- [MyFitness](add) - [Java] - Clean Code
+- [Yen's Algorithm](https://github.com/stoyan-stunji/fmi-np-yens-alg/tree/main) - [Java] - Network Programming
+- [MyFitness (UNFINISHED)](https://gitlab.com/stoyan-stunji/MyFitnessPal) - [Java] - Clean Code
 #### 5th Semester:
 - [File System](https://github.com/stoyan-stunji/fmi-fp-filesystem) - [Haskell] - Functional Programming 
 - [Housing Data Analisys](https://github.com/stoyan-stunji/fmi-r-house-rates) - [R] - Probabilities & Statistics 
