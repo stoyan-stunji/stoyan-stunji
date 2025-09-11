@@ -7,7 +7,8 @@
 - 🌱 Studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
 
 - 👨‍🏫 Teaching assistant:
-[**Effective Realization Of Math Concepts And Algorithms [FMI]**]()
+  
+[**Effective Realization Of Math Concepts & Algorithms [FMI]**](https://github.com/stoyan-stunji/fmi-ermka)
 
 - 📫 Reach me: **sustoyanivanov2@gmail.com**
 
