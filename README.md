@@ -12,7 +12,7 @@
 
 ### Projects:
 #### 6th Semester:
-- [System For Automatic Thematic Grouping & Summarization Of Text Documents](https://github.com/stoyan-stunji/fmi-ai-topic-grouping) - [Java/Python] - Artificial Intelligence
+- [Auto Theme Sum & Doc Group](https://github.com/stoyan-stunji/fmi-ai-topic-grouping) - [Java/Python] - Artificial Intelligence
 - [Yen's Algorithm](add) - [Java] - Network Programming
 - [MyFitness](add) - [Java] - Clean Code
 #### 5th Semester:
