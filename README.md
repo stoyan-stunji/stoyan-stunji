@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stoyan "The Red Jacket" Ivanov</h1>
 <h3 align="center">Student At FMI - Sofia University</h3>
 
-- 🌱 I’m currently studying: **C++, Java, Haskell & Various Other Languages For Mathematical Computing.**
+- 🌱 I’m currently studying: **C++, Java, Python & Various Other Languages For Mathematical Computing.**
 
-- 📝 I’m currently working on: **6th Semester [SU FMI Informatics], 1st Semester [SU FMI Teaching Module - Math] & AI Course [SoftUni]**
+- 📝 I’m currently working on: **6th Semester [FMI Informatics] & 2nd Semester [FMI Math Teacher Module]**
 
-```yaml
-Network Programming | Databases | Artificial Intelligence | Geometry | Semantics For Languages | Complex Analysis | Clean Code || AI Basics
-```
+- 👨‍🏫 I'm currently a Teacher Assistant in **Effective Realisation Of Math Concepts And Algorithms [Python]**
 
 - 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
 
