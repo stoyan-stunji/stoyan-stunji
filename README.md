@@ -17,7 +17,7 @@
 - [MyFitness (UNFINISHED)](https://gitlab.com/stoyan-stunji/MyFitnessPal) - [Java] - Clean Code
 #### 5th Semester:
 - [File System](https://github.com/stoyan-stunji/fmi-fp-filesystem) - [Haskell] - Functional Programming 
-- [Housing Data Analisys](https://github.com/stoyan-stunji/fmi-r-house-rates) - [R] - Probabilities & Statistics 
+- [Housing Data Analysis](https://github.com/stoyan-stunji/fmi-r-house-rates) - [R] - Probabilities & Statistics 
 - [Tarataika.bg](https://github.com/stoyan-stunji/fmi-dp-mobilebg) - [Java] - Design Patterns
 #### 3rd Semester:
 - [Phase Portrait](https://github.com/stoyan-stunji/fmi-diff-eq-3.8) - [MatLab] - Differential Equations
