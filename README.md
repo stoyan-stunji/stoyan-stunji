@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Stoyan "The Red Jacket" Ivanov</h1>
 
-### Student at FMI - Sofia University</h3>
-
-- 🌱 Studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
+### Student at Faculty of Mathematics and Informatics - Sofia University
 
 - 📝 Working on: **6th Semester [FMI Informatics] & 2nd Semester [FMI Math Teacher Module]**
+ 
+- 🌱 Studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
 
 - 👨‍🏫 Teacher assistant: **Effective Realisation Of Math Concepts And Algorithms [FMI]**
 
 - 📫 Reach me: **sustoyanivanov2@gmail.com**
 
 ### Projects:
--
--
--
--
--
+#### 6th Semester:
+- [System For Automatic Thematic Grouping & Summarization Of Text Documents](https://github.com/stoyan-stunji/fmi-ai-topic-grouping) - [Java/Python] - Artificial Intelligence
+- [Yen's Algorithm](add) - [Java] - Network Programming
+- [MyFitness](add) - [Java] - Clean Code
+#### 5th Semester:
+- [File System](https://github.com/stoyan-stunji/fmi-fp-filesystem) - [Haskell] - Functional Programming 
+- [Housing Data Analisys](https://github.com/stoyan-stunji/fmi-r-house-rates) - [R] - Probabilities & Statistics 
+- [Tarataika.bg](https://github.com/stoyan-stunji/fmi-dp-mobilebg) - [Java] - Design Patterns
+#### 3rd Semester:
+- [Phase Portrait](https://github.com/stoyan-stunji/fmi-diff-eq-3.8) - [MatLab] - Differential Equations
+- [Quine](https://github.com/stoyan-stunji/fmi-eai-quine-cpp) - [C++] - Languages, Automata & Computability
+#### 2nd Semester:
+- [Database](https://github.com/stoyan-stunji/fmi-oop-database) - [C++] - Object Oriented Programming
+- [Autumn](https://github.com/stoyan-stunji/oop-autumn) - [C++] - Object Oriented Programming
+#### Personal:
+- [Angry Birds Matlab](https://github.com/stoyan-stunji/angry-birds-matlab) - [MatLab]
+- [Local Multiplayer Quiz Game](https://github.com/stoyan-stunji/multiplayer-quiz-game) - [Python/HTML]
 
 ### Connect with me:
 <p align="left">
