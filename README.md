@@ -6,7 +6,8 @@
  
 - 🌱 Studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
 
-- 👨‍🏫 Teaching assistant: **Effective Realization Of Math Concepts And Algorithms [FMI]**
+- 👨‍🏫 Teaching assistant:
+[**Effective Realization Of Math Concepts And Algorithms [FMI]**]()
 
 - 📫 Reach me: **sustoyanivanov2@gmail.com**
 
