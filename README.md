@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Stoyan "The Red Jacket" Ivanov</h1>
 <h3 align="center">Student At FMI - Sofia University</h3>
 
-- 🌱 I’m currently studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
+- 🌱 Studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
 
-- 📝 I’m currently working on: **6th Semester [FMI Informatics] & 2nd Semester [FMI Math Teacher Module]**
+- 📝 Working on: **6th Semester [FMI Informatics] & 2nd Semester [FMI Math Teacher Module]**
 
-- 👨‍🏫 I'm currently a **teacher assistant** in **Effective Realisation Of Math Concepts And Algorithms [FMI]**
+- 👨‍🏫 Teacher assistant: **Effective Realisation Of Math Concepts And Algorithms [FMI]**
 
-- 👨‍💻 All of my projects are available at: [github.com/stoyan-stunji](github.com/stoyan-stunji)
+- 📫 Reach me: **sustoyanivanov2@gmail.com**
 
-- 📫 How to reach me: **sustoyanivanov2@gmail.com**
-
-- ⚡ Fun fact: **I play the bass guitar.**
+Projects:
+-
+-
+-
+-
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
