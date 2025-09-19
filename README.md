@@ -2,7 +2,7 @@
 
 ### Student at Faculty of Mathematics and Informatics - Sofia University
 
-- 📝 Working on: **6th Semester [FMI Informatics] & 2nd Semester [FMI Math Teacher Module]**
+- 📝 Working on: **7th Semester [FMI Informatics] & 2nd Semester [FMI Math Teacher Module]**
  
 - 🌱 Studying: **C++, Java, Python & Various Other Languages For Mathematical Computing**
 
