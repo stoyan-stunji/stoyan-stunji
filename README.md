@@ -7,12 +7,12 @@
 - **Teaching Module:** Math Teacher (`3rd semester`)
 
 ### 🛠 Projects
-- **[Angry Birds]:** **W.I.P**
-- **[Apache Cassandra with Docker, NGINX & gRPC](https://github.com/stoyan-stunji/grpc-cassandra-cluster):** Project developed as part of the course **Virtualization Technologies** (`7th semester`). It demonstrates how containerization and distributed databases can work together to create scalable, resilient and efficient systems using **Docker** and **Apache Cassandra**.
-- **[MyFitnessPal](https://gitlab.com/stoyan-stunji/MyFitnessPal/-/tree/main/src?ref_type=heads)**: `6th semester`
-- **[Yen's Algorithm](https://github.com/stoyan-stunji/fmi-np-yens-alg/tree/main)**: `6th semester`
-- **[Tarataika.bg](https://github.com/stoyan-stunji/fmi-dp-mobilebg):** `5th semester`
-- **[Database OOP](https://github.com/stoyan-stunji/fmi-oop-database):** `3th semester`
+- **[Angry Birds - [Unity & C#]]:** **W.I.P**
+- **[Apache Cassandra - [Docker, NGINX & gRPC]](https://github.com/stoyan-stunji/grpc-cassandra-cluster):** Developed as part of the course **Virtualization Technologies** (`7th semester`). It demonstrates how **containerization** and **distributed databases** can work together to create scalable, resilient and efficient systems using **Docker** and **Apache Cassandra**;
+- **[MyFitnessPal - [Java]](https://gitlab.com/stoyan-stunji/MyFitnessPal/-/tree/main/src?ref_type=heads)**: Created for the course **Clean Code** (`6th semester`). It implements core domain logic inspired by **MyFitnessPal** with the focus being **clean project structure**, **readable code**, **unit tests** and **automated test coverage** as part of a basic fitness‑tracking backend;
+- **[Yen's Algorithm - [Java]](https://github.com/stoyan-stunji/fmi-np-yens-alg/tree/main)**: `6th semester`
+- **[Tarataika.bg - [Java]](https://github.com/stoyan-stunji/fmi-dp-mobilebg):** `5th semester`
+- **[Database OOP - [C++]](https://github.com/stoyan-stunji/fmi-oop-database):** `3th semester`
 
 ### 📫 Contact Me
 - **Email**: sustoyanivanov2@gmail.com 
