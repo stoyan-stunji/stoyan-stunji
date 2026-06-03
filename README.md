@@ -2,9 +2,9 @@
 
 ### 🎓 About Me
 - **Student at:** Faculty Of Mathematics & Informatics - `FMI`, Sofia University - `SU`;
-- **Teaching Assistant at:** `FMI` in **[Effective Reaslization Of Math Concepts And Algorithms - [Python & Jupyter]](https://github.com/stoyan-stunji/fmi-effective-realization-2025-2026/tree/main)**;
+- **Teaching Assistant at:** `FMI` in **[Mathematics For Machine Learning - [Python]](https://github.com/stoyan-stunji/fmi-effective-realization-2025-2026/tree/main)**;
 - **Current Studies:** 4th-year student in **Informatics** (`8th semester`);
-- **Teaching Module:** Math Teacher (`3rd semester`).
+- **Teaching Module:** Math Teacher :white_check_mark:
 
 ### 🛠 Projects
 - !!! WIP !!! **[Angry Birds - [Unity & C#]](https://github.com/stoyan-stunji/fmi-gd-angry-birds):** Created for the course **Game Development** (`8th semester`). It ...
